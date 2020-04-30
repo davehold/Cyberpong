@@ -1,0 +1,7 @@
+0.1
+	- ball, background und paddle auf setSmooth gesetzt
+
+0.2
+	- kollisionsabfrage verfeinert
+	- rotes paddle eingefügt
+	- paddlepositionen angeglichen

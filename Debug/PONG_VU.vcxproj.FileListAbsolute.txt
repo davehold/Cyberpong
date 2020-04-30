@@ -1,0 +1,2 @@
+D:\Cloud\Mega\Projekte\C++\Pong VU\Debug\PONG_VU Aktuell.exe
+D:\Cloud\Mega\Projekte\C++\Pong VU\Debug\PONG_VU Aktuell.pdb
